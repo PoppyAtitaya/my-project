@@ -15,7 +15,7 @@ Search Keywords
     Input Text    locator=name=q   text=${MY_KEYWORD}
     sleep       3s
     Click Button    locator=name=btnK
-    go back
+    go back 2
 
 # Check page Search Keywords
 
@@ -42,7 +42,7 @@ Go to link5
 Close    
     Close Browser  
     
-    
+
 *** Test Cases ***
 Google search Keywords
     Open google page                    
