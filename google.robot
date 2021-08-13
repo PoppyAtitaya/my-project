@@ -15,7 +15,7 @@ Search Keywords
     Input Text    locator=name=q   text=${MY_KEYWORD}
     sleep       3s
     Click Button    locator=name=btnK
-    go back 6
+    go back 99
 
 # Check page Search Keywords
 
