@@ -1,0 +1,2 @@
+*** Variables ***
+${MY_KEYWORD}       สุนัข
